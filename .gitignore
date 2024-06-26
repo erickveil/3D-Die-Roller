@@ -1,0 +1,12 @@
+# Ignore all files
+
+*
+
+# Whitelist specific files and directories
+
+!.gitignore
+!README.md
+!UnityDieRoll.gif
+!Assets/
+!Assets/CameraFollowDie.cs
+!Assets/DieSpinner.cs
